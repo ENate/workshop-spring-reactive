@@ -134,6 +134,12 @@ To connect to the database from Java code we need some credentials, this is what
 
 > ⚠️ We will use the third argument called `TOKEN` that looks like `AstraCS:...` make sure you copy it in the clipboard.
 
+> **⚠️ Important**
+> ```
+> The instructor will show you on screen how to create a token 
+> but will have to destroy to token immediately for security reasons.
+> ```
+
 ### 6. Start and Setup Gitpod
 
 #### ✅ 6a. Open Gitpod
